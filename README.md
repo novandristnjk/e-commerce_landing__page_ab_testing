@@ -1,4 +1,4 @@
-# e-commerce_landing__page_ab_testing
+# e-commerce_landing_page_ab_testing
 
 Hypothesis testing to determine whether the new landing page is better than the old one.
 
